@@ -1,0 +1,2 @@
+# EdenArchitect
+AI Garden Planner
